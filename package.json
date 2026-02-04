@@ -50,4 +50,4 @@
   "type": "module",
   "dependencies": {
     "@stacks/connect": "^8.0.0",
-    "@stacks/transaction
+    "@stacks/transactio
