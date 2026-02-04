@@ -49,5 +49,5 @@
   "version": "1.0.0",
   "type": "module",
   "dependencies": {
-    "@stacks/connect": "^8.0.0",
+    "@stacks/connect": "^8.0.0"
     
